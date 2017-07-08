@@ -46,7 +46,8 @@ public class HomeFragment extends Fragment {
         picturesRecycler.setLayoutManager(linearLayoutManager);
 
         PictureAdapterRecyclerView pictureAdapterRecyclerView =
-                new PictureAdapterRecyclerView(buidPictures(), R.layout.cardview_picture, getActivity());
+                new PictureAdapterRecyclerView(buidPictures(),
+                        R.layout.cardview_picture, getActivity());
         picturesRecycler.setAdapter(pictureAdapterRecyclerView);
 
 

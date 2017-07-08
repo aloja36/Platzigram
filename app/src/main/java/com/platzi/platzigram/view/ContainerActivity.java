@@ -6,6 +6,7 @@ import android.support.annotation.IdRes;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.SearchView;
 
 import com.platzi.platzigram.R;
 import com.platzi.platzigram.view.fragment.HomeFragment;
@@ -26,6 +27,7 @@ public class ContainerActivity extends AppCompatActivity {
 
         BottomBar bottomBar = (BottomBar) findViewById(R.id.bottombar);
         bottomBar.setDefaultTab(R.id.home);
+
 
         bottomBar.setOnTabSelectListener(new OnTabSelectListener() {
             @Override
@@ -53,6 +55,8 @@ public class ContainerActivity extends AppCompatActivity {
                 }
             }
         });
+
+
 
     }
 }

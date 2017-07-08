@@ -1,2 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/pmcoder/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/pmcoder/StudioProjects/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_baefdd7bcf53caa0fe5c1d4187657977f8406c7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pmcoder/.android/build-cache/4412171b45d7aa0e2d0c44200e60997152a3e774/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="/home/pmcoder/StudioProjects/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7c9ba7eb3d48347f7e22987e5266dc46b942ea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pmcoder/StudioProjects/Platzigram/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a6f50505b4608f1c9085665ce894d0ce3a52ae4">
+        <dex dex="/home/pmcoder/StudioProjects/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cbf5b149f120a03d18275a0f3dd453bf1ae3d214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pmcoder/.android/build-cache/110bc21976a8a72d3bae29198ccfd1d96ec7b616/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="72337187bb1a066aa3f679661bde7d8e78a09065">
+        <dex dex="/home/pmcoder/StudioProjects/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb37d93640c9de18cc7fe2e71e12678d03888387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pmcoder/StudioProjects/Platzigram/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/pmcoder/StudioProjects/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_68f03b3738b1385b9ce042fe1b08cb7ce9a6f9c1/classes.dex" />
+    </item>
+
+</items>
